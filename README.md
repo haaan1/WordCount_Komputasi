@@ -8,7 +8,7 @@ menggunakan pemrograman paralel OpenMP.
 - src/parallel    : Implementasi paralel OpenMP
 - src/optimized   : Versi optimisasi
 - data/input      : Dataset input
-- data/result     : Hasil eksperimen
+- data/result   
 - scripts         : Script eksperimen dan visualisasi
 
 ## Compile
